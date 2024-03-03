@@ -1,5 +1,7 @@
 # 🎭 demo.playwright
 
+Adding a new line to test commits via VSCode
+
 This repo is used to demo various testing scenarios with [Playwright](https://playwright.dev/) 🎭, using the official test-runner and scripts authored in TypeScript.
 
 The [test.yml](../../actions/workflows/test.yml) GitHub Action workflow is used to:
